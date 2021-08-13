@@ -45,7 +45,7 @@ Untuk Service yang (Soal Test1) sebagai berikut :
 ![image](https://user-images.githubusercontent.com/34059058/129320350-6ac1d0b5-8694-488e-9c68-bc53cd7ea0fe.png)
 
 
-Untuk POSTMAN dapat didownload di sini : 
+Untuk POSTMAN collectionnya dapat didownload di sini : 
 https://drive.google.com/file/d/15zq2RrjkCYwxirnmih4D7czs7HYEu7fT/view?usp=sharing
 
 
