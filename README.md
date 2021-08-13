@@ -10,7 +10,7 @@ Dengan Detail Sebagai Berikut :
 4. Remove item from cart
 5. Finalize cart (calculcate price)
 
-Adapun Data Item Yang Digunakan Sudah Di Include Dalam CSV File TABLE_ITEM.csv.  (Item Dapat Ditambah lagi, tapi mohon sesuaikan dengan data yanh ada tipenya) 
+Adapun Data Item Yang Digunakan Sudah Di Include Dalam CSV File TABLE_ITEM.csv.  (Item Dapat Ditambah lagi, tapi mohon sesuaikan dengan data yang ada tipenya) 
 Data Item Terdiri Yaitu :
 
 ![image](https://user-images.githubusercontent.com/34059058/129319040-3bab5246-2e73-4521-9e14-936d46d7ef64.png)
