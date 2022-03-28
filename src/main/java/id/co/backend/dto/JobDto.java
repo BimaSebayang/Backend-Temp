@@ -1,4 +1,4 @@
-package id.co.backend.repository;
+package id.co.backend.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Getter;

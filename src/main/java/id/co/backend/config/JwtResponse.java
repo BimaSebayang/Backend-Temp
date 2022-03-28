@@ -1,4 +1,4 @@
-package id.co.buara.varia.computama.config;
+package id.co.backend.config;
 
 import java.io.Serializable;
 

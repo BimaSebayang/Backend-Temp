@@ -1,4 +1,4 @@
-package id.co.buara.varia.computama.throwable;
+package id.co.backend.throwable;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

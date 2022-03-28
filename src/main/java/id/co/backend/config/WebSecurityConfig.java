@@ -1,6 +1,4 @@
-package id.co.buara.varia.computama.config;
-
-import java.io.BufferedReader;
+package id.co.backend.config;
 
 import javax.servlet.http.HttpServletRequest;
 
