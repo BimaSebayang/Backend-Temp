@@ -1,13 +1,13 @@
-package id.co.buara.varia.computama;
+package id.co.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BuaraVariaKomputamaTestApplication {
+public class BackendTemp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BuaraVariaKomputamaTestApplication.class, args);
+		SpringApplication.run(BackendTemp.class, args);
 	}
 
 }
